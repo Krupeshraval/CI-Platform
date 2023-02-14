@@ -55,7 +55,7 @@ body {
 }
 
 .privacy {
-    color: #414141;
+    margin-top: 2rem;
 }
 
 @media screen and (max-width : 992px) {
