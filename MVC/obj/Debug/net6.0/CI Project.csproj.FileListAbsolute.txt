@@ -1,0 +1,31 @@
+F:\CI\CI Project\bin\Debug\net6.0\appsettings.Development.json
+F:\CI\CI Project\bin\Debug\net6.0\appsettings.json
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.staticwebassets.runtime.json
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.exe
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.deps.json
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.runtimeconfig.json
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.dll
+F:\CI\CI Project\bin\Debug\net6.0\CI Project.pdb
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.csproj.AssemblyReference.cache
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.AssemblyInfoInputs.cache
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.AssemblyInfo.cs
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.csproj.CoreCompileInputs.cache
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.MvcApplicationPartsAssemblyInfo.cache
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.RazorAssemblyInfo.cache
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.RazorAssemblyInfo.cs
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets\msbuild.CI Project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets\msbuild.build.CI Project.props
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI Project.props
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI Project.props
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets.pack.json
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets.build.json
+F:\CI\CI Project\obj\Debug\net6.0\staticwebassets.development.json
+F:\CI\CI Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\CI\CI Project\obj\Debug\net6.0\scopedcss\bundle\CI Project.styles.css
+F:\CI\CI Project\obj\Debug\net6.0\scopedcss\projectbundle\CI Project.bundle.scp.css
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.dll
+F:\CI\CI Project\obj\Debug\net6.0\refint\CI Project.dll
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.pdb
+F:\CI\CI Project\obj\Debug\net6.0\CI Project.genruntimeconfig.cache
+F:\CI\CI Project\obj\Debug\net6.0\ref\CI Project.dll
