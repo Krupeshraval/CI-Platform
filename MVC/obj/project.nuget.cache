@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NO3YLg2U184ce2yROlUpdRL79eeymMadrPRc+uTUU57hoJPaRqdjTW1mXLtOLa0rYzAgY/pZ8JbdkH7LOgxd/g==",
+  "dgSpecHash": "r+7u7DW4rIol8SuEn3+z2NILEZMd3LYKITMBOa52NhGbmLiFfzb1vYdnjEHvubMBZ8kb1D9MfoI8u7pmKyPMoA==",
   "success": true,
-  "projectFilePath": "F:\\CI\\CI Project\\CI Project.csproj",
+  "projectFilePath": "F:\\Project\\CI Project\\MVC\\CI Project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
